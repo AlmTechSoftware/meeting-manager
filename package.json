@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"bufferutil": "^4.0.7",
-		"discord.js": "^14.9.0",
+		"discord.js": "^14.13.0",
 		"dotenv": "^16.3.1",
 		"erlpack": "discord/erlpack",
 		"lodash-es": "^4.17.21",
